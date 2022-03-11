@@ -166,6 +166,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+
     private void queryPosts() {
         // Specify which class to query
         ParseQuery<Post> query = ParseQuery.getQuery(Post.class);
@@ -183,4 +184,5 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+
 }
