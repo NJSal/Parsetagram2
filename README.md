@@ -38,11 +38,11 @@ Here's a walkthrough of implemented user stories:
 <div class="image123">
     <div class="imgContainer">
         <img src="http://g.recordit.co/OnQ2jWDDw7.gif" height="800" width="400"/>
-        <p>User Registration</p>
+        <p>Registration, Log in, Log out, User Persistence, Picture capture, Profile pics</p>
     </div>
     <div class="imgContainer">
         <img src="http://g.recordit.co/pcWu9S6OCt.gif" height="800" width="400"/>
-        <p>User Log in, User Persistence, Take & Submission of Picture, Log out</p>
+        <p>profile pics of logged-in user, and pics of other users</p>
     </div>
 </div>
 
